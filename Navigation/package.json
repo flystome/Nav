@@ -1,0 +1,20 @@
+{
+  "name": "mynavigator",
+  "version": "1.0.0",
+  "description": "a navigator list to repalce baidu list",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "li",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.17.6",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp.spritesmith": "^6.2.1",
+    "merge-stream": "^1.0.0",
+    "run-sequence": "^1.2.2"
+  }
+}

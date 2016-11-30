@@ -1,0 +1,21 @@
+    .icon-del1 {
+          display: inline-block;
+          background-image: url("../img/sprite.png");
+          background-position: 0px 0px;
+          width: 15px;
+          height: 15px;
+        }
+    .icon-del2 {
+          display: inline-block;
+          background-image: url("../img/sprite.png");
+          background-position: -17px 0px;
+          width: 15px;
+          height: 15px;
+        }
+    .icon-modify {
+          display: inline-block;
+          background-image: url("../img/sprite.png");
+          background-position: 0px -17px;
+          width: 13px;
+          height: 12px;
+        }

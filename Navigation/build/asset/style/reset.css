@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  font-family: "Arial", "Microsoft YaHei", "宋体", "Tahoma", "Verdana", "SimSun";
+  color: #818181;
+  overflow: hidden;
+}
+td,
+p,
+div,
+a,
+form,
+header,
+section,
+footer {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li,
+dl,
+dt,
+dd {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+input,
+select,
+textarea,
+button {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  font-family: "Microsoft YaHei", "Arial", "宋体", "Tahoma", "Verdana", "SimSun";
+  color: #818181;
+  outline: none;
+}
+select,
+textarea {
+  background-color: #fff;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+a img {
+  border: none;
+}
+hr {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+img {
+  vertical-align: top;
+}
+a {
+  text-decoration: none;
+  color: #333;
+  cursor: pointer;
+}
+table,
+th,
+td {
+  border-collapse: collapse;
+}
+input {
+  padding-left: 5px;
+  box-shadow: 1px 1px 1px #f6f6f6 inset;
+  font-family: "aneueots";
+  color: #333;
+}
+html {
+  width: 100%;
+}
+body {
+  width: 100%;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 1px;
+  content: "";
+  line-height: 0;
+  clear: both;
+  height: 0;
+  overflow: hidden;
+}
+.clearfix {
+  zoom: 1;
+}
+.rel {
+  position: relative;
+}
+.abs {
+  position: absolute;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+.none {
+  display: none !important;
+}
